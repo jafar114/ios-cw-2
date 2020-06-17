@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     /// 👀 **NOTE** هذه المصفوفة التي ستقوم بالإضافة إليها `emojiArray`
-    var emojiArray : [String] = []
+    var emojiArray : [String] []
     
     @IBOutlet weak var animalTextField: UITextField!
     @IBOutlet weak var animalEmojiLabel: UILabel!
@@ -21,6 +21,18 @@ class ViewController: UIViewController {
         
         
         // MARK: - اكتب ال if statement الكود تحت
+        
+           
+        
+        
+        
+           
+        
+           
+      
+           
+        
+            
         
         
         // MARK: - لا تقم بتغيير هذا السطر⚠️⚠️
